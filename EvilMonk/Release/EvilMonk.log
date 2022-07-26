@@ -1,0 +1,156 @@
+﻿  Application.cpp
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(42,79): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(42,59): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(110,47): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(115,129): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(115,96): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(133,47): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(142,127): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(142,94): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(170,45): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(174,45): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(180,126): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(180,93): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(195,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(215,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(246,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(264,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(318,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(327,122): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Application.cpp(327,91): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  HUD.cpp
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\HUD.cpp(31,77): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\HUD.cpp(32,77): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\HUD.cpp(33,48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\HUD.cpp(39,57): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\HUD.cpp(40,57): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\HUD.cpp(43,57): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\HUD.cpp(44,57): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\HUD.cpp(50,58): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\HUD.cpp(51,58): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\HUD.cpp(57,58): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\HUD.cpp(58,58): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Hero.cpp
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Hero.cpp(199,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Hero.cpp(220,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Monster.cpp
+C:\Users\Lenovo\Desktop\rogtest\EvilMonk\EvilMonk\Application\Monster.cpp(192,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Main.cpp
+  Создание кода
+  150 of 1962 functions ( 7.6%) were compiled, the rest were copied from previous compilation.
+    41 functions were new in current compilation
+    90 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  EvilMonk.vcxproj -> C:\Users\Lenovo\Desktop\rogtest\EvilMonk\Release\EvilMonk.exe

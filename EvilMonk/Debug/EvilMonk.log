@@ -1,0 +1,39 @@
+﻿  Application.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Application\Tilemap.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Drawable.hpp: No such file or directory,
+  CollisionMap.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Application\CollisionMap.hpp(2,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  HUD.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Application\HUD.hpp(4,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Drawable.hpp: No such file or directory,
+  Hero.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Utility\MoveHelper.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Drawable.hpp: No such file or directory,
+  Lightmap.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Application\Lightmap.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Drawable.hpp: No such file or directory,
+  Monster.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Utility\MoveHelper.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Drawable.hpp: No such file or directory,
+  Tilemap.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Application\Tilemap.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Drawable.hpp: No such file or directory,
+  WindowsHelper.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Application\WindowsHelper.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Window/WindowHandle.hpp: No such file or directory,
+  Cave.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Generator\Generator.hpp(5,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Rect.hpp: No such file or directory,
+  Dungeon.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Generator\Generator.hpp(5,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Rect.hpp: No such file or directory,
+  Forest.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Generator\Generator.hpp(5,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Rect.hpp: No such file or directory,
+  Generator.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Generator\Generator.hpp(5,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Rect.hpp: No such file or directory,
+  Room.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Generator\Room.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Spaceship.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Generator\Generator.hpp(5,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Rect.hpp: No such file or directory,
+  Main.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Application\Tilemap.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics/Drawable.hpp: No such file or directory,
+  Map.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Map\Map.hpp(5,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Direction.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Utility\Direction.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  MoveHelper.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Utility\Utility.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Utility.cpp
+C:\Users\Lenovo\Desktop\data\код\rogtest\EvilMonk\EvilMonk\Utility\Utility.hpp(3,10): fatal error C1083: Не удается открыть файл включение: SFML/System/Vector2.hpp: No such file or directory,
+  Создание кода...
